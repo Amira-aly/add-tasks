@@ -1,0 +1,29 @@
+.dark button{
+    margin: 20px;
+    color: white;
+    background: rgb(37, 37, 37);
+    border-radius: 23px;
+    width: 125px;
+    height: 41px;
+    margin-right: 20px;
+}
+
+
+.black{
+    background-color: rgb(22, 22, 22);
+    color: gray;
+}
+.card {
+    background-color: aliceblue;
+    color: #333;
+}
+
+#del{
+    float: right;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+}
+.none{
+    display: none;
+   
+}
